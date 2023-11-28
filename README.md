@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://www.linkedin.com/in/abdul-rahman-8bbb77262](https://www.linkedin.com/in/abdul-rahman-8bbb77262/)" target="_blank"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png"  alt="Abdul Rahman" height="30" width="40" /></a><br><br>
+<a href="https://www.linkedin.com/in/abdul-rahman-8bbb77262/"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png"  alt="Abdul Rahman" height="40" width="40" /></a><br><br>
 <a href="mailto:abduofficial01@gmail.com" target="_blank">
    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/>
   </a>
